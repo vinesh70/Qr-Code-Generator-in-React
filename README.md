@@ -27,7 +27,7 @@ A simple QR code generator built with React. This project demonstrates the use o
 1. Clone the repository:
     ```bash
     git clone https://github.com/vinesh70/Qr-Code-Generator-in-React.git
-    cd qrcode-generator
+    cd Qr-Code-Generator-in-React
     ```
 
 2. Install dependencies:
@@ -45,5 +45,3 @@ A simple QR code generator built with React. This project demonstrates the use o
 2. Enter the URL you want to generate a QR code for in the input field.
 3. Click the "Generate" button to create the QR code.
 4. Click the "Download QR Code" button to download the generated QR code as a PNG image.
-
-Feel free to customize the text, add more details, or include additional sections as per your project requirements.
