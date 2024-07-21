@@ -7,8 +7,6 @@ A simple QR code generator built with React. This project demonstrates the use o
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [License](#license)
 
 ## Features
 - Generate QR codes from input URLs.
